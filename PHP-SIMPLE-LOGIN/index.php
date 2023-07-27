@@ -22,6 +22,7 @@ if(isset($_POST['submit']))
             session_start();
             $_SESSION['login'] = true;
             $_SESSION['email'] = $email;
+            
             $alert = true;
             $message = "Success";
 

@@ -1,0 +1,26 @@
+
+[
+    {
+
+
+    "name" : "Jose Amandio de Almeida",
+    "age" : 23,
+    "dateofbirth" : "02-10-1999",
+    "hobbies" : ["coding","gaming","reading"],
+    "city": "Dili",
+    "country" : "Timor-Leste"
+
+},
+{
+
+
+    "name" : "Jose Amandio de Almeida",
+    "age" : 23,
+    "dateofbirth" : "02-10-1999",
+    "hobbies" : ["coding","gaming","reading"],
+    "city": "Dili",
+    "country" : "Timor-Leste"
+
+}
+
+]
