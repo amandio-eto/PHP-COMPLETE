@@ -1,7 +1,7 @@
 <?php
 
 //This Basic Logic For Condition && simbol AND,  simbol OR is ||
-//Only For If and Else 
+//Only For If and else elseif
 
 $username = "amandio";
 $password = "1234";
