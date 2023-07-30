@@ -14,6 +14,12 @@ class Personal
 
     }
 
+    public function personalname()
+    {
+        return $this->name;
+
+    }
+
 }
 
 
@@ -27,5 +33,6 @@ $age = $people->age = 23;
 
 echo $name.PHP_EOL;
 echo $age.PHP_EOL;
+echo $people->personalname();
 
 
