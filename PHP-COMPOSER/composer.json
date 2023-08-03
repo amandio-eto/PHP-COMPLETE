@@ -1,0 +1,20 @@
+{
+    "name": "amandio/learning-phpcomposer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Amandio\\LearningPhpcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amandio-eto",
+            "email": "JoseAmandiodeAlmeida021099@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+
+    
+}
